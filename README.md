@@ -1,6 +1,6 @@
 # CaloSim
 
-Check script/create-visualization.ipynb for more details.
+Check [create-visualization.ipynb](This notebook) for more details.
 
 Requirement: matplotlib, numpy, pandas, h5py, and pytorch
 
