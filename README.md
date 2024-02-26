@@ -1,7 +1,7 @@
 # CaloSim
 
-Check create-visualization.ipynb for more details.
+Check [create-visualization.ipynb]() for more details.
 
 Requirement: matplotlib, numpy, pandas, h5py, and pytorch
 
-Most credits to official repo
+Most credits to [official repo](https://github.com/OzAmram/CaloDiffusionPaper)
